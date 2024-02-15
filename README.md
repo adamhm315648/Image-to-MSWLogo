@@ -1,6 +1,6 @@
-# Img2MswlogoCPP
+# Image to MSWLogo
 
-Introducing Img2Mswlogo C++ Edition
+Introducing Image-to-MSWLogo C++ Edition
 
 Welcome to Img2Mswlogo in C++! This version brings the power of C++ to the forefront, providing an efficient high-performance and incomparibly faster tool for converting images into MSW Logo commands.
 
